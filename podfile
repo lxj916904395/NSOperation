@@ -1,0 +1,11 @@
+platform:ios,'8.0'
+
+target 'NSOperation' do
+    
+    pod 'SDWebImage'
+    pod 'YYKit'
+    pod 'ReactiveCocoa','~> 2.4.5'
+    pod 'Masonry'
+    
+end
+
